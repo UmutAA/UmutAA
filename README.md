@@ -10,7 +10,7 @@
 - C programming
 - Python Programming
 - Algorithms and Data Structures
-- App Develeppement
+- App Developpement
 - Software Engineering
 
 ---
