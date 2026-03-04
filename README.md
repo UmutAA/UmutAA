@@ -1,15 +1,15 @@
 ### Hi there, I'm Umut 👋
 
 🎓 I'm a Computer Engineering student with a passion for coding and continuous learning.  
-💻 Currently learning **C** and **Python** to strengthen my foundation in software development.  
+💻 I have a strong foundation in **C**. Currently learning **Python** and **Java** to strengthen my foundation in software development.  
 🌱 Always eager to explore new technologies and improve my problem-solving skills.
 
 ---
 
 ### 🧠 Skills I'm working on:
-- C programming
+- Java programming
 - Python Programming
-- Algorithms and Data Structures
+- Problem Solving
 - App Developpement
 - Software Engineering
 
