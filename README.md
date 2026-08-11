@@ -24,26 +24,6 @@ Currently focused on **Python, algorithms & data structures, machine learning, a
 
 ---
 
-## 💻 Coding & Profiles
-
-<p align="center">
-
-<a href="https://github.com/UmutAA">
-  <img src="https://img.shields.io/badge/GitHub-UmutAA-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/umutce/">
-  <img src="https://img.shields.io/badge/LeetCode-umutce-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/umut-ali-arslan-1b2b94313/">
-  <img src="https://img.shields.io/badge/LinkedIn-Umut%20Ali%20Arslan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
-
----
-
 ## 🧠 What I Care About
 
 <table align="center">
