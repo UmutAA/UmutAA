@@ -17,6 +17,51 @@ Currently focused on **Python, algorithms & data structures, machine learning, a
 </p>
 
 ---
+ 
+## 🚀 Selected Projects
+
+<table align="center"> <tr>
+
+<td width="50%" valign="top">
+
+### Heart Disease Risk Prediction
+
+Machine learning pipeline built on clinical data, combining statistical analysis with predictive modeling.
+
+#### Highlights
+
+Statistical analysis of clinical risk factors
+Data preprocessing & feature engineering
+Multiple ML models compared
+Model evaluation using Accuracy, Recall, F1 & ROC-AUC
+Random Forest achieved 93.3% accuracy and 0.935 F1
+
+<a href="https://github.com/UmutAA/heart-disease-ml-prediction"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Graph Community Detection
+
+C implementation of multiple community detection algorithms for weighted graphs.
+
+#### Highlights
+
+Louvain & multilevel Louvain
+Fast Greedy
+Custom SCP algorithm
+Fast Louvain & Kernel Partition
+Modularity & execution-time comparison
+Adjacency-list graph representation
+
+<a href="https://github.com/UmutAA/GraphCommunityDetection"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+
+</td>
+
+</tr> </table>
+
+---
 
 ## 🧠 Problem Solving
 
