@@ -19,47 +19,72 @@ Currently focused on **Python, algorithms & data structures, machine learning, a
 ---
  
 ## 🚀 Selected Projects
+<table align="center">
+<tr>
 
-<table align="center"> <tr>
+<td width="33%" valign="top">
 
-<td width="50%" valign="top">
-
-### Heart Disease Risk Prediction
+<h3>Heart Disease Risk Prediction</h3>
 
 Machine learning pipeline built on clinical data, combining statistical analysis with predictive modeling.
 
-#### Highlights
+<h4>Highlights</h4>
 
-Statistical analysis of clinical risk factors
-Data preprocessing & feature engineering
-Multiple ML models compared
-Model evaluation using Accuracy, Recall, F1 & ROC-AUC
-Random Forest achieved 93.3% accuracy and 0.935 F1
+<ul>
+<li>Statistical analysis of clinical risk factors</li>
+<li>Data preprocessing & feature engineering</li>
+<li>Multiple ML models compared</li>
+<li>Model evaluation using Accuracy, Recall, F1 & ROC-AUC</li>
+<li>Random Forest achieved 93.3% accuracy and 0.935 F1</li>
+</ul>
 
-<a href="https://github.com/UmutAA/heart-disease-ml-prediction"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/UmutAA/heart-disease-ml-prediction"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### Graph Community Detection
+<h3>Mushroom Classification</h3>
+
+Machine learning pipeline comparing multiple supervised algorithms to classify mushrooms as edible or poisonous.
+
+<h4>Highlights</h4>
+
+<ul>
+<li>Data preprocessing & feature encoding</li>
+<li>Class distribution visualization with matplotlib</li>
+<li>Six classification models compared</li>
+<li>Model evaluation using precision, recall & F1-score</li>
+<li>Random Forest included as the top-performing baseline model</li>
+</ul>
+
+<a href="https://github.com/UmutAA/mushroom-classification"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3>Graph Community Detection</h3>
 
 C implementation of multiple community detection algorithms for weighted graphs.
 
-#### Highlights
+<h4>Highlights</h4>
 
-Louvain & multilevel Louvain
-Fast Greedy
-Custom SCP algorithm
-Fast Louvain & Kernel Partition
-Modularity & execution-time comparison
-Adjacency-list graph representation
+<ul>
+<li>Louvain & multilevel Louvain</li>
+<li>Fast Greedy</li>
+<li>Custom SCP algorithm</li>
+<li>Fast Louvain & Kernel Partition</li>
+<li>Modularity & execution-time comparison</li>
+<li>Adjacency-list graph representation</li>
+</ul>
 
-<a href="https://github.com/UmutAA/GraphCommunityDetection"> <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
+<a href="https://github.com/UmutAA/GraphCommunityDetection"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 ---
 
