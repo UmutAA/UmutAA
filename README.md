@@ -44,21 +44,19 @@ Machine learning pipeline built on clinical data, combining statistical analysis
 
 <td width="33%" valign="top">
 
-<h3>Mushroom Classification</h3>
-
-Machine learning pipeline comparing multiple supervised algorithms to classify mushrooms as edible or poisonous.
+<h3>ML From Scratch</h3>
+A collection of core machine learning algorithms implemented entirely from scratch using only NumPy and pandas no scikit-learn.
 
 <h4>Highlights</h4>
-
 <ul>
-<li>Data preprocessing & feature encoding</li>
-<li>Class distribution visualization with matplotlib</li>
-<li>Six classification models compared</li>
-<li>Model evaluation using precision, recall & F1-score</li>
-<li>Random Forest included as the top-performing baseline model</li>
+<li>Linear regression implemented from scratch with manual gradient descent</li>
+<li>Custom feature scaling (StandardScaler) built without external libraries</li>
+<li>Convergence-based stopping criterion instead of a fixed epoch count</li>
+<li>Custom evaluation metrics (MSE, RMSE) implemented manually</li>
+<li>More algorithms to be added as the series grows</li>
 </ul>
 
-<a href="https://github.com/UmutAA/mushroom-classification"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/UmutAA/ml-from-scratch"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </td>
 
