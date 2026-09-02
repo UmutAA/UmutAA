@@ -49,10 +49,10 @@ A collection of core machine learning algorithms implemented entirely from scrat
 
 <h4>Highlights</h4>
 <ul>
-<li>Linear regression implemented from scratch with manual gradient descent</li>
+<li>Linear regression and Logistic regression implemented from scratch with manual gradient descent</li>
 <li>Custom feature scaling (StandardScaler) built without external libraries</li>
 <li>Convergence-based stopping criterion instead of a fixed epoch count</li>
-<li>Custom evaluation metrics (MSE, RMSE) implemented manually</li>
+<li>Custom evaluation metrics (MSE, RMSE, BCE) implemented manually</li>
 <li>More algorithms to be added as the series grows</li>
 </ul>
 
