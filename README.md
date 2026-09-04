@@ -6,14 +6,21 @@ I'm a Computer Engineering student passionate about **software engineering, arti
 
 I enjoy learning by building real systems and understanding the fundamentals behind the technologies I use.
 
-Currently focused on **Python, algorithms & data structures, machine learning, and software development**.
+Currently focused on **Machine learning, Deep Learning, Generative AI and software development**.
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode&perline=6"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
 </p>
 
 ---
@@ -133,12 +140,10 @@ Strengthening algorithms, data structures and logical thinking.
 ## 📈 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Algorithms-000000?style=flat-square&logo=thealgorithms&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Information%20Retrieval-4B8BBE?style=flat-square&logo=google&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 ---
