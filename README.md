@@ -21,6 +21,7 @@ Currently focused on **Machine learning, Deep Learning, Generative AI and softwa
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/ChromaDB-%231D1D1D.svg?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB">
 </p>
 
 ---
@@ -29,7 +30,7 @@ Currently focused on **Machine learning, Deep Learning, Generative AI and softwa
 <table align="center">
 <tr>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <h3>Heart Disease Risk Prediction</h3>
 
@@ -49,7 +50,7 @@ Machine learning pipeline built on clinical data, combining statistical analysis
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <h3>ML From Scratch</h3>
 A collection of core machine learning algorithms implemented entirely from scratch using only NumPy and pandas no scikit-learn.
@@ -67,7 +68,7 @@ A collection of core machine learning algorithms implemented entirely from scrat
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 <h3>Graph Community Detection</h3>
 
@@ -86,6 +87,24 @@ C implementation of multiple community detection algorithms for weighted graphs.
 
 <a href="https://github.com/UmutAA/GraphCommunityDetection"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
+</td>
+
+<td width="25%" valign="top">
+<h3>Ask My Courses <sub>(in progress)</sub></h3>
+ 
+A retrieval-augmented generation assistant that answers student questions directly from real course syllabi, slides, and assignments, with cited sources and measured retrieval quality.
+ 
+<h4>Highlights</h4>
+ 
+<ul>
+<li>Full RAG pipeline: parsing, chunking, embedding, and retrieval</li>
+<li>Hybrid search (BM25 + vector) with cross-encoder reranking</li>
+<li>Retrieval and faithfulness measured with a hand-built golden evaluation set and RAGAS</li>
+<li>Tool-calling into live external APIs (calendar, weather, GitHub) alongside document retrieval</li>
+<li>FastAPI backend with streaming responses and a Streamlit frontend</li>
+</ul>
+<a href="https://github.com/UmutAA/ask-my-courses"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+ 
 </td>
 
 </tr>
