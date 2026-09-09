@@ -13,7 +13,7 @@ Currently focused on **Machine learning, Deep Learning, Generative AI and softwa
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,github&perline=6"/>
   <br><br>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
