@@ -1,6 +1,6 @@
 # Hi, I'm Umut Ali Arslan 👋
 
-### Computer Engineering Student | Software Engineering & AI
+### Computer Engineering Student | ML/DL & AI Engineer
 
 I'm a Computer Engineering student passionate about **software engineering, artificial intelligence, and problem solving**.
 
