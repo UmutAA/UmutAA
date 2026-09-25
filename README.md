@@ -87,27 +87,6 @@ C implementation of multiple community detection algorithms for weighted graphs.
 
 <a href="https://github.com/UmutAA/GraphCommunityDetection"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-</td>
-
-<td width="25%" valign="top">
-<h3>Ask My Courses <sub>(in progress)</sub></h3>
- 
-A retrieval-augmented generation assistant that answers student questions directly from real course syllabi, slides, and assignments, with cited sources and measured retrieval quality.
- 
-<h4>Highlights</h4>
- 
-<ul>
-<li>Full RAG pipeline: parsing, chunking, embedding, and retrieval</li>
-<li>Hybrid search (BM25 + vector) with cross-encoder reranking</li>
-<li>Retrieval and faithfulness measured with a hand-built golden evaluation set and RAGAS</li>
-<li>Tool-calling into live external APIs (calendar, weather, GitHub) alongside document retrieval</li>
-<li>FastAPI backend with streaming responses and a Streamlit frontend</li>
-</ul>
-<a href="https://github.com/UmutAA/ask-my-courses"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
- 
-</td>
-
-</tr>
 </table>
 
 ---
